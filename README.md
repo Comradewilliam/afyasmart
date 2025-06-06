@@ -161,9 +161,9 @@ Use **Postman** or similar to test:
 ## 👤 Author
 
 **William Sadiki**
-*📍 Tanzania
-*💻 Flask • React • AI • Health Tech
-*🔗 [GitHub Profile](https://github.com/Comradewilliam)
+*📍 Tanzania*
+*💻 Flask • React • AI • Health Tech*
+*🔗 [GitHub Profile](https://github.com/Comradewilliam)*
 
 ---
 
