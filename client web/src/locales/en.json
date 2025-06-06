@@ -1,0 +1,40 @@
+
+{
+  "app": {
+    "title": "AfyaSmart",
+    "subtitle": "Your Health Assistant"
+  },
+  "navigation": {
+    "chat": "AI Assistant",
+    "hospitals": "Find Hospitals",
+    "emergency": "Emergency"
+  },
+  "chat": {
+    "title": "AI Health Assistant",
+    "placeholder": "Ask me about your health concerns...",
+    "send": "Send",
+    "typing": "AI is typing...",
+    "welcome": "Hello! I'm your AI health assistant. How can I help you today?"
+  },
+  "hospitals": {
+    "title": "Find Nearby Hospitals",
+    "searchPlaceholder": "Search by region or district...",
+    "useLocation": "Use My Location",
+    "noResults": "No hospitals found in this area",
+    "distance": "km away",
+    "viewDetails": "View Details"
+  },
+  "emergency": {
+    "title": "Emergency Contacts",
+    "ambulance": "Ambulance",
+    "police": "Police",
+    "fire": "Fire Department",
+    "call": "Call Now"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "close": "Close"
+  }
+}

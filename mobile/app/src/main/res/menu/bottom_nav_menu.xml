@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/tab_home" />
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@android:drawable/ic_menu_send"
+        android:title="@string/tab_chat" />
+    <item
+        android:id="@+id/nav_hospitals"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="@string/tab_hospitals" />
+    <item
+        android:id="@+id/nav_emergency"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="@string/tab_emergency" />
+</menu>

@@ -1,0 +1,53 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">AfyaSmart</string>
+    <string name="app_description">Msaidizi wako wa afya mahiri</string>
+    <string name="app_loading">Inapakia...</string>
+    <string name="app_error">Kumetokea hitilafu. Tafadhali jaribu tena.</string>
+
+    <!-- Navigation -->
+    <string name="tab_home">Nyumbani</string>
+    <string name="tab_chat">Mjadala</string>
+    <string name="tab_hospitals">Hospitali</string>
+    <string name="tab_emergency">Dharura</string>
+    <string name="language_en">Kiingereza</string>
+    <string name="language_sw">Kiswahili</string>
+    <string name="nav_settings">Mipangilio</string>
+    <string name="nav_logout">Ondoka</string>
+
+    <!-- Chat -->
+    <string name="chat_title">Msaidizi wa Afya</string>
+    <string name="chat_placeholder">Andika ujumbe wako...</string>
+    <string name="chat_send">Tuma</string>
+    <string name="chat_loading">Inapata majibu...</string>
+    <string name="chat_error">Imeshindikana kutuma ujumbe.</string>
+
+    <!-- Hospitals -->
+    <string name="hospitals_title">Hospitali</string>
+    <string name="hospitals_search_hint">Tafuta hospitali...</string>
+    <string name="hospitals_no_results">Hakuna hospitali zilizopatikana.</string>
+    <string name="hospitals_status_open">Iko wazi</string>
+    <string name="hospitals_status_closed">Imezibwa</string>
+    <string name="hospitals_contact">Wasiliana</string>
+    <string name="hospitals_directions">Pata Maelekezo</string>
+    <string name="hospitals_phone">Simu</string>
+    <string name="hospitals_address">Anwani</string>
+
+    <!-- Emergency -->
+    <string name="emergency_title">Nambari za Dharura</string>
+    <string name="emergency_call">Piga Sasa</string>
+    <string name="emergency_confirm">Una uhakika unataka kupiga huduma za dharura?</string>
+    <string name="emergency_cancel">Ghairi</string>
+    <string name="emergency_success">Simu imepiga kwa mafanikio.</string>
+    <string name="emergency_error">Imeshindikana kupiga simu.</string>
+
+    <!-- Common -->
+    <string name="common_ok">Sawa</string>
+    <string name="common_cancel">Ghairi</string>
+    <string name="common_yes">Ndiyo</string>
+    <string name="common_no">Hapana</string>
+    <string name="common_retry">Jaribu tena</string>
+    <string name="common_back">Nyuma</string>
+    <string name="common_next">Ifuatayo</string>
+    <string name="common_close">Funga</string>
+</resources>

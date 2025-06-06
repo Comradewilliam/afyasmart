@@ -1,0 +1,40 @@
+
+{
+  "app": {
+    "title": "AfyaSmart",
+    "subtitle": "Msaidizi Wako wa Afya"
+  },
+  "navigation": {
+    "chat": "Msaidizi",
+    "hospitals": "Tafuta Hospitali",
+    "emergency": "Dharura"
+  },
+  "chat": {
+    "title": "Msaidizi",
+    "placeholder": "Niulize kuhusu maswala ya afya yako...",
+    "send": "Tuma",
+    "typing": "Msaidizi anaandika...",
+    "welcome": "Hujambo! Mimi ni msaidizi wako wa afya wa AI. Nitakusaidiaje leo?"
+  },
+  "hospitals": {
+    "title": "Tafuta Hospitali Zilizo Karibu",
+    "searchPlaceholder": "Tafuta kwa mkoa au wilaya...",
+    "useLocation": "Tumia Mahali Pangu",
+    "noResults": "Hakuna hospitali zilizopatikana katika eneo hili",
+    "distance": "km mbali",
+    "viewDetails": "Ona Maelezo"
+  },
+  "emergency": {
+    "title": "Nambari za Dharura",
+    "ambulance": "Gari la Wagonjwa",
+    "police": "Polisi",
+    "fire": "Zima Moto",
+    "call": "Piga Simu Sasa"
+  },
+  "common": {
+    "loading": "Inapakia...",
+    "error": "Kuna tatizo",
+    "retry": "Jaribu Tena",
+    "close": "Funga"
+  }
+}
